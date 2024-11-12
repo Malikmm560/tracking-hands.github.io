@@ -9,6 +9,7 @@ So this project is a basic hand-tracking setup built with Python, OpenCV, and Me
 2. Uses Mediapipe for hand landmarks (finger joints, wrist, etc.)
 3. Built with OpenCV for video processing and display
 4. Super simple code that you can build off or just use as-is
+----------------------------------------------------------------------------------------------------------------
 
 🛠 How to Get Started
 1. Clone this repository:
@@ -22,6 +23,7 @@ So this project is a basic hand-tracking setup built with Python, OpenCV, and Me
 3. Run the script:
 
 -python tracking-hand.py
+----------------------------------------------------------------------------------------------------------------
 
 🔧 Customizations & Ideas
 Gesture Recognition: Customize the script to detect specific hand signs or gestures, like a thumbs-up 👍 or a peace sign ✌️.
