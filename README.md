@@ -1,5 +1,7 @@
+
 ✋ Hand Tracking with Python, OpenCV & Mediapipe
 So this project is a basic hand-tracking setup built with Python, OpenCV, and Mediapipe. It’s simple right now, but there’s a lot you can customize here if you’re looking to build more advanced stuff! Perfect if you’re starting with hand tracking or just want to play around with real-time hand detection. Here’s a breakdown:
+![Screenshot 2024-11-12 150430](https://github.com/user-attachments/assets/3d9b6968-f26c-45c4-9034-f172006a7143)
 
 ----------------------------------------------------------------------------------------------------------------
 
