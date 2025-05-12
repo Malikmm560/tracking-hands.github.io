@@ -2,14 +2,14 @@ import cv2
 import mediapipe as mp
 import time 
 
-# Attempt to open the default camera (try different indexes if needed)
+
 cap = cv2.VideoCapture(0, cv2.CAP_DSHOW)
 
 if not cap.isOpened():
     print("Error: Could not open camera.")
     exit()
 
-# Initialize MediaPipe Hands
+
 mphands = mp.solutions.hands
 hands = mphands.Hands(False)
 mpDraw = mp.solutions.drawing_utils
